@@ -1,0 +1,8 @@
+*.accdb
+*.txt
+*.dat
+*.class
+build/
+vpproject/
+nbproject/private/
+test/
